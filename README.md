@@ -1,8 +1,6 @@
-# HyperRank
+## Is ChatGPT A Good Keyphrase Generator? A Preliminary Study
+This repository contains the data for our report ["Large Language Models as Zero-Shot Keyphrase Extractor: A Preliminary Empirical Study"]()
 
-This repository provides the code of the paper Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction (EMNLP2023).
+[Data]()
 
-
-Coming Soon ...
-
-The main code will be updated after a period of time.
+Upload after a period of time, and contact me if necessary (mingyang.song@bjtu.edu.cn).
